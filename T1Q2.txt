@@ -1,0 +1,9 @@
+Step One: open zsh.rc with nano, or with text editor:
+nvim zsh.rc
+
+Step Two: Add alias to .rc file:
+alias FinalProject=" cd ~/Documents/code/lewi0239_Final_Project"
+
+Step Three: Update .rc file by using source command
+source ~/.zshrc
+

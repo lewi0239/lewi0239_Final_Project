@@ -1,0 +1,16 @@
+Step One: move to required working directory:
+cd /Users/brodielewis/Documents/code/
+
+Step Two: make directory:
+mkdir lewi0239_Final_Project
+
+Step Three: cd into lewi0239_Final_Project
+
+Step Four: Make file:
+touch T1Q1.txt
+
+Step Five: Push this steps into T1Q1.txt or use a txt editor:
+echo "steps" >> T1Q1.txt
+
+Step Six: Show work inside terminal
+cat T1Q1.tx
